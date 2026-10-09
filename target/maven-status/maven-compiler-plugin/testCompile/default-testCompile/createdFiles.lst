@@ -1,0 +1,9 @@
+org\hibernate\bugs\entity\Child.class
+org\hibernate\bugs\entity\GrandChildId.class
+org\hibernate\bugs\entity\ChildId.class
+org\hibernate\bugs\entity\GrandChild.class
+org\hibernate\bugs\entity\Parent.class
+org\hibernate\bugs\ORMUnitTestCase.class
+org\hibernate\bugs\utils\GenericDaoSupport.class
+org\hibernate\bugs\entity\ParentId.class
+org\hibernate\bugs\utils\CommonUtils.class
